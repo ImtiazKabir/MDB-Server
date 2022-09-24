@@ -1,0 +1,34 @@
+
+7cpp:S125J"Remove the commented out code.(ó‡¶Íÿÿÿÿÿ
+7cpp:S125R"Remove the commented out code.(ø¸Ñ¥üÿÿÿÿ
+7cpp:S125V"Remove the commented out code.(±Ÿ¿´ûÿÿÿÿ
+2cpp:S125Z"Remove the commented out code.(¡Äãï
+2cpp:S125b"Remove the commented out code.(ƒöŒ´
+2cpp:S125f"Remove the commented out code.(‡»Ò
+2cpp:S125k"Remove the commented out code.(â„ç½
+2cpp:S125z"Remove the commented out code.(Éø•¶
+2cpp:S125~"Remove the commented out code.(äĞ¹
+8cpp:S125‚"Remove the commented out code.(ëÀ„ıÿÿÿÿ
+3cpp:S125‡"Remove the commented out code.(şÎ»Á
+8cpp:S125Œ"Remove the commented out code.(Áô„ëùÿÿÿÿ
+8cpp:S125‘"Remove the commented out code.(ïÍş†ùÿÿÿÿ
+3cpp:S125"Remove the commented out code.(‘êìÎ
+3cpp:S125£"Remove the commented out code.(½£°œ
+3cpp:S125§"Remove the commented out code.(“ìÏ€
+8cpp:S125±"Remove the commented out code.(ó‡¶Íÿÿÿÿÿ
+8cpp:S125º"Remove the commented out code.(ºŒÎ¯ÿÿÿÿÿ
+3cpp:S125—"Remove the commented out code.(ù³ËÑ
+8cpp:S125"Remove the commented out code.(çÄéùÿÿÿÿ
+8cpp:S125»"Remove the commented out code.(’ıÀşÿÿÿÿ
+N	cpp:S1135"4Complete the task associated to this "TODO" comment.(œÇ¤§ûÿÿÿÿ
+N	cpp:S5028¦"8Replace this macro by "const", "constexpr" or an "enum".(¼±–§
+N	cpp:S5028§"8Replace this macro by "const", "constexpr" or an "enum".(Àßã
+Q	cpp:S5416â";"using" should be preferred to "typedef" for type aliasing.(ì›£
+V	cpp:S5416";"using" should be preferred to "typedef" for type aliasing.(áÎË„şÿÿÿÿ
+H	cpp:S5945›"2Use "std::string" instead of a C-style char array.(óš¹µ
+V	cpp:S5416˜";"using" should be preferred to "typedef" for type aliasing.(ØÂÅúÿÿÿÿ
+<	cpp:S3642©"&Replace this "enum" with "enum class".(³ê“ó
+T	cpp:S5008·"9Replace this use of "void *" with a more meaningful type.(Ó™÷¿øÿÿÿÿ
+T	cpp:S5008º"9Replace this use of "void *" with a more meaningful type.(¤åìÕüÿÿÿÿ
+O	cpp:S5008À"9Replace this use of "void *" with a more meaningful type.(¡Ø» 
+O	cpp:S5008Ã"9Replace this use of "void *" with a more meaningful type.(¡Øæ’

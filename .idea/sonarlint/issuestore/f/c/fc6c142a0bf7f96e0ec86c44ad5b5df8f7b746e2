@@ -1,0 +1,5 @@
+
+2c:S1481"unused variable 'i'(¨ÌğØûÿÿÿÿ8û²ŸØ¶0
+c:S995"oMake the type of this parameter a pointer-to-const. The current type of "database" is "struct MovieDatabase *".(èí¡Çúÿÿÿÿ8û²ŸØ¶0
+Cc:S5955 ")Declare the variable "i" inside the loop.(ˆÏ¸ƒ8û²ŸØ¶0
+Cc:S5955/")Declare the variable "i" inside the loop.(ˆÏ¸ƒ8Åô«Ø¶0

@@ -1,0 +1,37 @@
+
+`c:S1134¶"LTake the required action to fix the issue indicated by this "FIXME" comment.( æ´ã
+Hc:S1135‚"4Complete the task associated to this "TODO" comment.(Å×ùş
+Mc:S1135"4Complete the task associated to this "TODO" comment.(’·Ñíûÿÿÿÿ
+[c:S936ê"HEither add a parameter list or the "&" operator to this use of "malloc".(²°½ã
+Yc:S936ê"FEither add a parameter list or the "&" operator to this use of "free".(²°½ã
+/c:S1905¿"Remove this redundant cast.(İÊÎ
+=c:S5955ì")Declare the variable "i" inside the loop.(µÉĞª
+mc:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 28 to the 25 allowed.(Çß¬Âøÿÿÿÿ
+Ic:S5955ì"5Declare the variable "utf8_position" inside the loop.(á·ìŒ
+5c:S1110 "!Remove these useless parentheses.(š”û
+hc:S3776…"TRefactor this function to reduce its Cognitive Complexity from 34 to the 25 allowed.(¾öŒ·
+_c:S134Ş"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(õñıl
+Qc:S1199’"8Extract this nested code block into a separate function.(ÒÌâ–øÿÿÿÿ
+]c:S924µ"EReduce the number of nested "goto" statements from 3 to 1 authorized.(Î“˜Œøÿÿÿÿ
+Jc:S886Ï"2Refactor this loop so that it is less error-prone.(ûÀÊ®üÿÿÿÿ
+{c:S995Œ
+"cMake the type of this parameter a pointer-to-const. The current type of "item" is "struct cJSON *".( «ÿÑúÿÿÿÿ
+]c:S924Ä"EReduce the number of nested "goto" statements from 2 to 1 authorized.(«ıøÿÿÿÿ
+hc:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 32 to the 25 allowed.(øôä†
+]c:S924â"EReduce the number of nested "goto" statements from 4 to 1 authorized.(«ıøÿÿÿÿ
+hc:S3776²"TRefactor this function to reduce its Cognitive Complexity from 38 to the 25 allowed.(ÆÁŠ¦
+=c:S5955×")Declare the variable "i" inside the loop.(±Ç¹ù
+=c:S5955—")Declare the variable "i" inside the loop.(Óíˆ
+vc:S995‹"cMake the type of this parameter a pointer-to-const. The current type of "item" is "struct cJSON *".(“œûµ
+{c:S995•"cMake the type of this parameter a pointer-to-const. The current type of "item" is "struct cJSON *".(Ç±¡ıÿÿÿÿ
+=c:S5955ÿ")Declare the variable "i" inside the loop.(ßœ—´
+=c:S5955§")Declare the variable "i" inside the loop.(ßœ—´
+=c:S5955Ï")Declare the variable "i" inside the loop.(ßœ—´
+=c:S5955÷")Declare the variable "i" inside the loop.(ßœ—´
+mc:S3776’"TRefactor this function to reduce its Cognitive Complexity from 26 to the 25 allowed.(ÜìÖÄøÿÿÿÿ
+Jc:S886é"2Refactor this loop so that it is less error-prone.(’…“´øÿÿÿÿ
+Jc:S886ö"2Refactor this loop so that it is less error-prone.(’…“´øÿÿÿÿ
+Ec:S886†"2Refactor this loop so that it is less error-prone.(„¬€š
+/c:S1905¸"Remove this redundant cast.(•¡±Á
+hc:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 39 to the 25 allowed.(‰ßû«
+Ec:S1264é",Replace this "for" loop with a "while" loop.(ë¦ïüÿÿÿÿ
